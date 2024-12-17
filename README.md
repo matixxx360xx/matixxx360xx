@@ -1,4 +1,4 @@
-<h3 align="center">A</h3>
+<h3 align="center">HI</h3>
 
 - 🌱 I’m currently learning **JavaScript, Vue.js, C#, and React. I’m focused on improving my front-end and back-end development skills, building interactive user interfaces, and creating efficient, scalable applications. Always eager to learn and explore new technologies to grow as a developer. 🚀**
 
