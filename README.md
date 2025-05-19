@@ -33,8 +33,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/matixxx360xx/matixxx360xx/output/snake.svg" alt="Snake animation" />
 
 ###
