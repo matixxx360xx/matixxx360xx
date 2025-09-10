@@ -43,5 +43,27 @@
 
 ###
 
-<!-- Codewars Badge at the bottom -->
-![Codewars Badge](https://www.codewars.com/users/matixxx360xx/badges/large)
+<h2 align="center">Codewars Progress</h2>
+
+<div align="center">
+  <p><strong>Rank:</strong> 4 kyu</p>
+  <p><strong>Honor:</strong> 776</p>
+  <p><strong>Leaderboard Position:</strong> #59,385</p>
+  <p><strong>Honor Percentile:</strong> Top 8.185%</p>
+  <p><strong>Total Completed Kata:</strong> 158</p>
+  <h3>Languages:</h3>
+  <p><strong>Total Languages Trained:</strong> 3</p>
+  <p><strong>Highest Trained:</strong> JavaScript (4 kyu)</p>
+  <p><strong>Most Recent:</strong> JavaScript Overall: 4 kyu / 18.1%</p>
+  <p><strong>JavaScript:</strong> 4 kyu / 17.6%</p>
+  <p><strong>C#:</strong> 8 kyu / 70.0%</p>
+  <p><strong>Python:</strong> 8 kyu / 70.0%</p>
+</div>
+
+###
+
+<h3 align="center">Codewars Badge</h3>
+
+<div align="center">
+  <img src="https://www.codewars.com/users/matixxx360xx/badges/large" alt="Codewars Badge" />
+</div>
