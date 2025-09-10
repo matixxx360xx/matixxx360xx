@@ -42,3 +42,6 @@
 <img src="https://raw.githubusercontent.com/matixxx360xx/matixxx360xx/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<!-- Codewars Badge at the bottom -->
+![Codewars Badge](https://www.codewars.com/users/matixxx360xx/badges/large)
