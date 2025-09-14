@@ -2,11 +2,11 @@
 
 
 
-## 🌱 What I’m learning
+# 🌱 What I’m learning
 
-I'm currently diving deep into:  
-**JavaScript**, **Vue.js**, **C#**, **C++**, and **React**.  
-Focused on mastering front-end & back-end development, creating sleek user interfaces, and scalable apps. Always eager to learn and explore new tech! 🚀
+## I'm currently diving deep into:  
+## **JavaScript**, **Vue.js**, **C#**, **C++**, and **React**.  
+## Focused on mastering front-end & back-end development, creating sleek user interfaces, and scalable apps. Always eager to learn and explore new tech! 🚀
 
 ---
 
