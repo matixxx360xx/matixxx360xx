@@ -1,12 +1,12 @@
-# 👋 Hi there!
 
+<h1 align="left">Hi 👋!</h1>
 
+###
 
-<h2>🌱 What I’m learning</h2>
+<h2 align="left">- 🌱 I’m currently learning JavaScript, Vue.js, C#, C++, and React. I’m focused on improving my front-end and back-end development skills, building interactive user interfaces, and creating efficient, scalable applications. Always eager to learn and explore new technologies to grow as a developer. 🚀</h2>
 
-<h2> I'm currently diving deep into:</h2>  **JavaScript**, **Vue.js**, **C#**, **C++**, and **React**.  Focused on mastering front-end & back-end development, creating sleek user interfaces, and scalable apps. Always eager to learn and explore new tech! 🚀</h2>
+###
 
----
 
 ## 🛠️ Technologies & Tools
 
