@@ -38,7 +38,7 @@
 ---
 
 ## 🎯 Coding Platforms
-
+<center>
 ### 🥋 Codewars
 <img src="https://www.codewars.com/users/matixxx360xx/badges/large" alt="Codewars Badge" />
 
@@ -56,6 +56,7 @@
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="20" alt="C#" /> C# | 8 kyu | 70.0% |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="Python" /> Python | 8 kyu | 70.0% |
 
+</center>
 
 
   <div align="center">
