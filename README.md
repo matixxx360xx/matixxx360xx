@@ -39,31 +39,23 @@
 
 ## 🎯 Coding Platforms
 
-<div align="center" style="display: flex; justify-content: space-between; gap: 40px;">
+### 🥋 Codewars
+<img src="https://www.codewars.com/users/matixxx360xx/badges/large" alt="Codewars Badge" />
 
+| Metric                   | Value         |
+|--------------------------|---------------|
+| **🏅 Rank:**             | 4 kyu         |
+| **✨ Honor:**            | 940           |
+| **📈 Leaderboard Pos.:** | #40,442       |
+| **🔥 Honor Percentile:** | Top 5.562%    |
+| **✅ Total Completed Kata:** | 172       |
 
-  <div align="center">
-    <h2>🥋 Codewars</h2>
-    <img src="https://www.codewars.com/users/matixxx360xx/badges/large" alt="Codewars Badge" />
+| Language | Rank  | Progress |
+|----------|-------|----------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" alt="JavaScript" /> JavaScript | 4 kyu | 17.6% |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="20" alt="C#" /> C# | 8 kyu | 70.0% |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="Python" /> Python | 8 kyu | 70.0% |
 
-
-  <br/><br/>
-    
-  | Metric                   | Value         |
-  |--------------------------|---------------|
-  | **🏅 Rank:**             | 4 kyu         |
-  | **✨ Honor:**            | 940           |
-  | **📈 Leaderboard Pos.:** | #40,442       |
-  | **🔥 Honor Percentile:** | Top 5.562%    |
-  | **✅ Total Completed Kata:** | 172       |
-
-  <br>
-  | Language | Rank  | Progress |
-  |----------|-------|----------|
-  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" alt="JavaScript" /> JavaScript | 4 kyu | 17.6% |
-  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="20" alt="C#" /> C# | 8 kyu | 70.0% |
-  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="Python" /> Python | 8 kyu | 70.0% |
-  </div>
 
 
   <div align="center">
