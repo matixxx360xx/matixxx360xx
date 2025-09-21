@@ -43,23 +43,31 @@
 
   <!-- Codewars -->
   <div align="center">
-    <h3>🥋 Codewars</h3>
+    <h2>🥋 Codewars</h2>
     <img src="https://www.codewars.com/users/matixxx360xx/badges/large" alt="Codewars Badge" />
     
     <br/><br/>
-    
-    <table>
-      <tr><td><b>🏅 Rank:</b></td><td>4 kyu</td></tr>
-      <tr><td><b>✨ Honor:</b></td><td>776</td></tr>
-      <tr><td><b>📈 Leaderboard:</b></td><td>#59,385</td></tr>
-      <tr><td><b>🔥 Percentile:</b></td><td>Top 8.185%</td></tr>
-      <tr><td><b>✅ Completed Kata:</b></td><td>158</td></tr>
-    </table>
+
+    | Metric                   | Value         |
+    |--------------------------|---------------|
+    | **🏅 Rank:**             | 4 kyu         |
+    | **✨ Honor:**            | 940           |
+    | **📈 Leaderboard Pos.:** | #40,442       |
+    | **🔥 Honor Percentile:** | Top 5.562%    |
+    | **✅ Total Completed Kata:** | 172       |
+
+    <br/>
+
+    | Language | Rank  | Progress |
+    |----------|-------|----------|
+    | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" alt="JavaScript" /> JavaScript | 4 kyu | 17.6% |
+    | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="20" alt="C#" /> C# | 8 kyu | 70.0% |
+    | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="Python" /> Python | 8 kyu | 70.0% |
   </div>
 
   <!-- LeetCode -->
   <div align="center">
-    <h3>🏆 LeetCode</h3>
+    <h2>🏆 LeetCode</h2>
     <a href="https://leetcode.com/matixxx360xx/">
       <img src="https://leetcard.jacoblin.cool/matixxx360xx?theme=dark&ext=heatmap" alt="LeetCode Stats" />
     </a>
